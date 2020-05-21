@@ -1,0 +1,26 @@
+body{
+    background-image: url("sun.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 1400px 750px;
+}
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+h2{text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: bold;
+    color: blanchedalmond;
+}
+h3{text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: 650;
+    color:blanchedalmond;
+}
